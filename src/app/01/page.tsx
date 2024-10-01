@@ -10,7 +10,7 @@ export default function Page() {
           alt="kitku"
           width={300}
           height={80}
-          className="h-[80px] w-full rounded-t-md"
+          className="h-[80px] w-full rounded-t-md object-cover"
         />
         <Image
           className="absolute left-3 top-8 rounded-2xl"
