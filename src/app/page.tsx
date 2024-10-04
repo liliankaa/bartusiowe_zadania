@@ -12,6 +12,9 @@ export default function HomePage() {
       <Link href={"01"} className="mt-4 hover:underline">
         Zadanie - 01
       </Link>
+      <Link href={"02"} className="hover:underline">
+        Zadanie - 02
+      </Link>
     </main>
   );
 }
